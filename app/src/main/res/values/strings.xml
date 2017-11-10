@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P_37_AppBar_Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="Buscador">Search</string>
+    <string name="title_activity_segunda">SegundaActivity</string>
+    <string name="consejo">buscarpalabra</string>
+</resources>
